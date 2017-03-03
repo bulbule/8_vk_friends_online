@@ -1,6 +1,16 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+The script asks for the user's login and password for [vk.com](https://vk.com/) and prints the list of names of online friends to the console.
+
+Usage:
+
+```#!bash
+$ pip install -r requirements.txt
+$ python vk_friends_online.py
+Enter your login: <login>
+Enter your password:
+
+```
 
 # Project Goals
 
